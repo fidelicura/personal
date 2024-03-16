@@ -7,5 +7,6 @@ Connectives represent relations between variables using logical operations:
 - AND (_conjunction_): $p = T, q = F, p \land q = F$;
 - OR (_disjunction_): $p = T, q = F, p \lor q = T$;
 
-There is one more (_that is considered basic_) connective: implication, $p = T, q = F, p \implies q = F$.
+There are two more (_that is considered basic_) connectives: **implication**, $p = T, q = F, p \implies q = F$ and **biconditional**, $p = T, q = F, p \iff q = F$.
 Most simple way to think about implication is: we cannot obtain falsity from truth, because truth implies only truth.
+To tell about biconditial, just think about it as equality: if both variables (_operands_) are $T$ or both are $F$, then connective is $T$.
