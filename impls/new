@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+
+echo "\n[\$] > Welcome! This script will create a topic and programming language folder for this implementation.\n"
+
+read -p "Name: " NAME
+if [ -d $NAME ]; then
+  echo "[I] => Such directory exists, will create language folder under it."
+fi
+read -p "Language: " LANGUAGE
+if [ -d $NAME/$LANGUAGE ]; then
+  echo "[I] => Such directory exists under this folder, skipping."
+  echo "\n[\$] > Cannot create such folder structure. Bye!"
+  exit 1
+fi
+
+mkdir -p $NAME/$LANGUAGE
+
+echo "\n[\$] > Successfully created according folder structure. Bye!"
+exit 0
