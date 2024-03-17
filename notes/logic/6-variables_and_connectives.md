@@ -10,3 +10,5 @@ Connectives represent relations between variables using logical operations:
 There are two more (_that is considered basic_) connectives: **implication**, $p = T, q = F, p \implies q = F$ and **biconditional**, $p = T, q = F, p \iff q = F$.
 Most simple way to think about implication is: we cannot obtain falsity from truth, because truth implies only truth.
 To tell about biconditial, just think about it as equality: if both variables (_operands_) are $T$ or both are $F$, then connective is $T$.
+
+Operator precedence is (_from left to right_): $\neg$, $\land$, $\lor$, $\implies$, $\iff$.
