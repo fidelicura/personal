@@ -3,7 +3,6 @@
 - Physics: laboratory №84 [ ], report [ ];
 - Programming: rewrite parse logic of coursework [ ], design the coursework [ ]; 
 - Graphics: laboratory №3 [ ] + №4 [ ];
-- Math: IHM №1 [ ] + №2 [ ];
 - Safety: laboratory №2 [ ];
 
 # Projects
