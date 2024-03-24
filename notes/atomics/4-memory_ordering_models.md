@@ -3,3 +3,5 @@ There are multiple ways to determine memory order (_sometimes called "model"_) f
 - `Sequentially Consistent` (`memory_order_seq_cst`) - does provide order in a way like we are get used to it as in default sequential execution, so compiler/CPU is not allowed to reorder operations at all, most strict memory ordering model;
 - `Acquire Release` (`memory_order_acquire` + `memory_order_release`) - does provide order in a way like locks are used, we use acquire to hold other threads from accessing critical section, then we perform this critical section and then we release it;
 - `Consume Release` (`memory_order_consume` + `memory_order_release`) - does provide order in a way like locks are used (_just like an acquire release_), but with difference that it is applied only for [dependency-ordered operations](https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/);
+
+>More about [consume memory ordering](https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/).
