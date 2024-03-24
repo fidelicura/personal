@@ -1,8 +1,8 @@
 # University
 
-- Physics: laboratory №84 [ ], report [ ];
+- Physics: laboratory №84 [ ], report [x];
 - Programming: rewrite parse logic of coursework [ ], design the coursework [ ]; 
-- Graphics: laboratory №3 [ ] + №4 [ ];
+- Graphics: laboratory №3 [ ] , laboratory №4 [ ];
 - Safety: laboratory №2 [ ];
 
 # Projects
