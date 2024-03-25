@@ -2,4 +2,7 @@ Spinlock is the most primitive synchronization primitive. It uses tactic like "w
 
 Implementation in `C`:
 ```c
+#include <stdatomic.h>
+
+
 ```
