@@ -19,3 +19,7 @@
 - [ ] Article about error handling in `Rust`;
 - [ ] Solve one task from AOC with `FASM`;
 - [ ] Note stack and heap work algorithms on `Linux`;
+
+# Tracking
+
+- [ ] Refinement vs Dependent vs Linear types;
