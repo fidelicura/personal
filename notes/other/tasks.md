@@ -1,9 +1,10 @@
 # University
 
 - Physics: laboratory №84 [ ], report [x];
-- Programming: rewrite parse logic of coursework [ ], design the coursework [ ]; 
+- Programming: add edit option [ ], design the coursework [ ], write code table [ ]; 
 - Graphics: laboratory №3 [ ] , laboratory №4 [ ];
 - Safety: laboratory №2 [x];
+- Math: IHW №2 [ ], last lecture note [ ];
 
 # Projects
 
