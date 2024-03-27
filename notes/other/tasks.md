@@ -5,6 +5,7 @@
 - Graphics: laboratory №3 [ ] , laboratory №4 [ ];
 - Safety: laboratory №2 [x];
 - Math: IHW №2 [ ], last lecture note [ ];
+- History: lecture №1 [ ], lecture №2 [ ];
 
 # Projects
 
